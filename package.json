@@ -1,0 +1,13 @@
+{
+  "name": "moonie-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "dotenv-safe": "^8.2.0"
+  },
+  "repository": "https://github.com/surapich/moonie-bot.git",
+  "author": "Surapich Chairgulprasert <csurapich@gmail.com>"
+}
